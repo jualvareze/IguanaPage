@@ -1,0 +1,99 @@
+*{
+margin: 0;
+border: 0;
+}
+
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+
+header{
+    background-color: black;
+    padding: 15px;
+}
+
+header h1{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+main img{
+    width: 100%;
+}
+
+.info{
+    text-align: center;
+    padding:30px;
+}
+
+
+
+.info img{
+    width: 399px;
+}
+
+.info div{
+    display: inline-block;
+    width: 32%;
+}
+
+.info .text{
+    vertical-align:top;
+    margin-top: 20px;
+}
+
+.info div p{
+    vertical-align: top;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.features{
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 60px;
+}
+
+.features h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.features div{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.features div .icon{
+font-size: 50px;
+margin: 10px 100px;
+}
+
+.features div{
+    font-size: 25px;
+}
+
+.imgs{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+.imgs img{
+    display: inline-block;
+    width: 316px;
+    height: 202px;
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: #1E1A13;
+    padding:30px ;
+}
